@@ -5,8 +5,8 @@ A small hardware project repository containing PCB manufacturing assets for a re
 ## Repository contents
 
 - `Gerber_PCB2_2026-05-30.zip` — Gerber export for PCB fabrication.
-- `BOM_Board1_PCB2_2026-05-30.xlsx` — bill of materials for assembly.
-- `schematic.pdf` — board schematic.
+- `BOM_Board1_PCB2_2026-05-30.xlsx` — Bill of materials for assembly.
+- `schematic.pdf` — Board schematic.
 
 ## Preview
 
